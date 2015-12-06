@@ -1,0 +1,1 @@
+cmd_/home/hacker/2015-2/mm/modules/slab_creat/slab_creat.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/hacker/2015-2/mm/modules/slab_creat/slab_creat.ko /home/hacker/2015-2/mm/modules/slab_creat/slab_creat.o /home/hacker/2015-2/mm/modules/slab_creat/slab_creat.mod.o

@@ -1,0 +1,1 @@
+cmd_/home/hacker/2015-2/mm/modules/EXPORT_SYMBOL/module2/mod2.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/hacker/2015-2/mm/modules/EXPORT_SYMBOL/module2/mod2.ko /home/hacker/2015-2/mm/modules/EXPORT_SYMBOL/module2/mod2.o /home/hacker/2015-2/mm/modules/EXPORT_SYMBOL/module2/mod2.mod.o

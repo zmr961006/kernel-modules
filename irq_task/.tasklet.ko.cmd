@@ -1,0 +1,1 @@
+cmd_/home/hacker/2015-2/mm/modules/irq_task/tasklet.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/hacker/2015-2/mm/modules/irq_task/tasklet.ko /home/hacker/2015-2/mm/modules/irq_task/tasklet.o /home/hacker/2015-2/mm/modules/irq_task/tasklet.mod.o
